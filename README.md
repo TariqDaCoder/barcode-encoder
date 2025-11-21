@@ -17,7 +17,7 @@ Developed by **Tariq Hassan**.
 
 ## Screenshot
 
-![App Screenshot](Assets/scrrenshot.png)
+![App Screenshot](assets/scrrenshot.png)
 
 ---
 
@@ -38,3 +38,4 @@ Developed by **Tariq Hassan**.
 Run the application using the following command:
 ```bash
 python src/gui.py
+
