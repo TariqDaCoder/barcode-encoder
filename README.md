@@ -9,8 +9,11 @@ Developed by **Tariq Hassan**.
 
 ## Features
 ✔ Encode text into Code 128 for Libre Barcode
+
 ✔ Copy encoded text to clipboard
+
 ✔ Maintain history of encoded items
+
 ✔ Clear history easily
 
 ---
@@ -38,5 +41,6 @@ Developed by **Tariq Hassan**.
 Run the application using the following command:
 ```bash
 python src/gui.py
+
 
 
