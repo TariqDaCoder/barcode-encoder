@@ -29,7 +29,7 @@ Developed by **Tariq Hassan**.
 ### 1. Setup
 1. Clone the repo:
     ```bash
-    git clone [https://github.com/TariqDaCoder/barcode-encoder.git](https://github.com/TariqDaCoder/barcode-encoder.git)
+    git clone https://github.com/TariqDaCoder/barcode-encoder.git
     cd barcode-encoder
     ```
 2. Install dependencies:
@@ -41,6 +41,8 @@ Developed by **Tariq Hassan**.
 Run the application using the following command:
 ```bash
 python src/gui.py
+```
+
 
 
 
