@@ -1,3 +1,6 @@
+
+ !Python
+ !License
 \# Libre Barcode 128 Encoder GUI
 
 
@@ -34,6 +37,7 @@ Developed by \*\*Tariq Hassan\*\*.
 
 
 3\. python barcode\_gui\_simple.py
+
 
 
 
