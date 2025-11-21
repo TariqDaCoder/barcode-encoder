@@ -1,11 +1,10 @@
+
 # Libre Barcode 128 Encoder GUI
 
-!Python
-!License
-
-A free and open-source tool to encode text into Code 128 format for Libre Barcode font.
+![Python](https://img.shields.io/bsource tool to encode text into Code 128 format for Libre Barcode font.
 
 Developed by **Tariq Hassan**.
+
 
 ---
 
@@ -37,3 +36,4 @@ Developed by **Tariq Hassan**.
 To create a standalone .exe:
    ```bash
    pyinstaller --onefile --windowed src/gui.py
+
